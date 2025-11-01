@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "DK Bukittinggi",
+    "slug": "dk-bukittinggi-mobile",
+    "version": "1.0.0",
+    "sdkVersion": "48.0.0",
+    "platforms": ["ios", "android"],
+    "extra": {
+      "apiBase": "http://YOUR_BACKEND_IP:4000",
+      "socketUrl": "http://YOUR_BACKEND_IP:4000"
+    }
+  }
+}
